@@ -3,10 +3,6 @@ Simple Python bot for Discord
 
 ## steps to run the scripts
 
-### get spotify credentials
-
-See https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app
-
 ### set environment and install dependencies 
 
 ```
